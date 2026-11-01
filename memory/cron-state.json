@@ -1,13 +1,13 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-11-01T13:21:37Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-31T13:51:22Z",
-    "total_runs": 14,
+    "last_status": "failed",
+    "last_failed": "2026-11-01T13:22:08Z",
+    "total_runs": 15,
     "total_successes": 0,
-    "total_failures": 14,
-    "consecutive_failures": 14,
+    "total_failures": 15,
+    "consecutive_failures": 15,
     "success_rate": 0,
-    "last_error": "codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a1923a-afd4-7270-a269-2e0471d6ae6d\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"message\":\"Missing environment variable: `OPENROUTER_API_KEY`.\"} {\""
+    "last_error": "codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a19746-469a-7f81-ac73-9c7cf1aebd8a\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"message\":\"Missing environment variable: `OPENROUTER_API_KEY`.\"} {\""
   }
 }
